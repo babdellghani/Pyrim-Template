@@ -10,5 +10,6 @@ This is a reusable template for building fast, modern websites. Key features inc
 -Reusable components and layout built with Flexbox \
 -Speed optimized for performance
 
-![image](https://github.com/babdellghani/Template2-HTML-CSS/assets/143917624/795e8cdf-95a7-449f-b317-86a42a64ec4b)
+![image](https://github.com/babdellghani/Template4-HTML-CSS/assets/143917624/d7c6cc7d-51b1-458e-a36a-d3c68a3c7d1d)
+
 
