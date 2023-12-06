@@ -331,6 +331,7 @@ body::-webkit-scrollbar-thumb {
 .main .arrow-right:hover {
     opacity: 1;
     transition: var(--main-transition);
+    cursor: pointer;
 }
 
 .main .arrow-left i,
