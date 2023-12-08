@@ -1,5 +1,6 @@
 # Template 4-HTML-CSS
-Pyrim Template A responsive HTML5 website template built with CSS and JavaScript.
+Pyrim Template A responsive HTML5 website template built with CSS and JavaScript. \
+Design UI/UX: https://dribbble.com/shots/19965249-Pyrim-Ecommerce-Sneakers-Store
 
 ## Overview
 This is a reusable template for building fast, modern websites. Key features include:
