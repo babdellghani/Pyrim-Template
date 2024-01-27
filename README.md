@@ -1,4 +1,4 @@
-# Template 4-HTML-CSS
+# Pyrim Template
 Pyrim Template A responsive HTML5 website template built with CSS and JavaScript. \
 Design UI/UX: https://dribbble.com/shots/19965249-Pyrim-Ecommerce-Sneakers-Store
 
